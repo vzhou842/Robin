@@ -3,18 +3,19 @@
 ## About
 
 ### Team Members
-Angela Mao (am23@princeton.edu)
-Jose Rodriguez (jmrq@princeton.edu)
-Andre Xiong (axiong@princeton.edu)
-Sarah Zhou (syzhou@princeton.edu) (Project Leader)
-Victor Zhou (vzhou@princeton.edu)
+- Angela Mao (am23@princeton.edu)
+- Jose Rodriguez (jmrq@princeton.edu)
+- Andre Xiong (axiong@princeton.edu)
+- Sarah Zhou (syzhou@princeton.edu) (Project Leader)
+- Victor Zhou (vzhou@princeton.edu)
 
 Advising TA: Robin Qiu
 
 ### Design Doc
-https://docs.google.com/document/d/1f9FqguICpJQGOByVVcbwFX3K16MNtaCjohxp2bl68Dc
+[https://docs.google.com/document/d/1f9FqguICpJQGOByVVcbwFX3K16MNtaCjohxp2bl68Dc](https://docs.google.com/document/d/1f9FqguICpJQGOByVVcbwFX3K16MNtaCjohxp2bl68Dc)
 
 ### Elevator Pitch
+WIP
 
 ## Timeline
 
