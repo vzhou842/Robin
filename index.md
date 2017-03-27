@@ -10,7 +10,7 @@
 Advising TA: Robin Qiu
 
 ### Design Doc
-[https://docs.google.com/document/d/1f9FqguICpJQGOByVVcbwFX3K16MNtaCjohxp2bl68Dc](https://docs.google.com/document/d/1f9FqguICpJQGOByVVcbwFX3K16MNtaCjohxp2bl68Dc)
+View our design doc [here](designdoc.pdf).
 
 ### Elevator Pitch
 WIP
