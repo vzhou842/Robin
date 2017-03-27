@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# Bring Back the Yak
 
-You can use the [editor on GitHub](https://github.com/vzhou842/COS-333-Project-Status-Site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Team Members
+Angela Mao (am23@princeton.edu)
+Jose Rodriguez (jmrq@princeton.edu)
+Andre Xiong (axiong@princeton.edu)
+Sarah Zhou (syzhou@princeton.edu) (Project Leader)
+Victor Zhou (vzhou@princeton.edu)
 
-### Markdown
+Advising TA: Robin Qiu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Design Doc
+https://docs.google.com/document/d/1f9FqguICpJQGOByVVcbwFX3K16MNtaCjohxp2bl68Dc
 
-```markdown
-Syntax highlighted code block
+### Elevator Pitch
 
-# Header 1
-## Header 2
-### Header 3
+## Timeline
 
-- Bulleted
-- List
+### Week of 3/26
+- First meeting with TA 
+- Repository setup
+- Server, Database, and Hosting setup
+- API for “registering” new user account done
+- API for getting Hot feed done
+- API for getting New feed done
+- API for creating new posts done
+- Design mock-ups for first round of functionality (see Project Prototype)
 
-1. Numbered
-2. List
+### Week of 4/2
+- Determine general design and theme of the app (colors, graphics)
+- Set-up all views in Xcode with all elements needed
+- Begin first round of functionality to connect elements in Xcode
 
-**Bold** and _Italic_ and `Code` text
+### Week of 4/9
+- Friday: 04/14 - Project Prototype 
+- Barebones of app
+- Basic functionality (one chronological feed, refreshing feed, write post, upvote, downvote, splash screen, autolayout)
+- Design mock-ups for second round of functionality (see Alpha Test)
 
-[Link](url) and ![Image](src)
-```
+### Week of 4/16
+- Set-up new views in Xcode (post detail view, profile view)
+- Begin second round of functionality 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Week of 4/23
+- Friday: 04/28 - Alpha Test 
+- Additional functionality (comment and comment votes, account page, notifications for posts)
+- Sorting by recency/hotnessss
+- Remove posts at -x downvotes
+- Webpage structure / embedded photos and video positions 
 
-### Jekyll Themes
+### Week of 4/30
+- Friday: 05/05 - Beta Test
+- Completely polished, done 
+- Webpage polished, done
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vzhou842/COS-333-Project-Status-Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Week of 5/7
+- 05/08 - First demo day 
+- 05/10 - Second demo day
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Week of 05/14 - Project DUE (by 11:59 pm)
