@@ -1,5 +1,3 @@
-# Bring Back the Yak
-
 ## About
 
 ### Team Members
