@@ -1,3 +1,14 @@
+## About
+
+### Team Members
+- Angela Mao (am23@princeton.edu)
+- Jose Rodriguez (jmrq@princeton.edu)
+- Andre Xiong (axiong@princeton.edu)
+- Sarah Zhou (syzhou@princeton.edu) (Project Leader)
+- Victor Zhou (vzhou@princeton.edu)
+
+Advising TA: Robin Qiu
+
 ## Timeline
 
 ### Week of 3/26
