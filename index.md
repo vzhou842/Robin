@@ -28,7 +28,7 @@ Robin is coming soon to the iOS App Store - stay tuned!
 <style>
   .screenshot {
     width: 375px;
-    height: 667px;
+    max-width: 90%;
     margin-bottom: 25px;
   }
 </style>
