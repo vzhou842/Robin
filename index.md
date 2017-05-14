@@ -1,14 +1,3 @@
-## About
-
-### Team Members
-- Angela Mao (am23@princeton.edu)
-- Jose Rodriguez (jmrq@princeton.edu)
-- Andre Xiong (axiong@princeton.edu)
-- Sarah Zhou (syzhou@princeton.edu) (Project Leader)
-- Victor Zhou (vzhou@princeton.edu)
-
-Advising TA: Robin Qiu
-
 ### Development
 View our design doc [here](designdoc.pdf) and read more about the development of Robin [here](development.md).
 
