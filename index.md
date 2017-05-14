@@ -7,18 +7,23 @@ Robin is an anonymous location-based social mobile application that aims to conn
 ### How does it work?
 
 <img class="screenshot" src="screenshot1.png">
+
 Read relatable posts
 
 <img class="screenshot" src="screenshot2.png">
+
 Comment on posts
 
 <img class="screenshot" src="screenshot3.png">
+
 Compose your own anonymous posts
 
 <img class="screenshot" src="screenshot4.png">
+
 Caption images...
 
 <img class="screenshot" src="screenshot5.png">
+
 ...or just write text
 
 <style>
